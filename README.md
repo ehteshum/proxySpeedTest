@@ -3,7 +3,7 @@
 ## Install
 ### Termux
 `pkg install -y git python`<br>
-`git clone https://github.com/biplobsd/proxySpeedTest.git`<br>
+`git clone https://github.com/ehteshum/proxySpeedTest.git`<br>
 `cd proxySpeedTest/`<br>
 `pip install -r requirements.txt`<br>
 `python proxySpeedTest.py`
